@@ -6,7 +6,7 @@ const LoginScreen = () => {
   return (
     <section className="login">
       <div className="login__logo">
-        <img src="img/melody-logo.png" alt="Угадай мелодию" width="186" height="83"/>  
+        <img src="img/melody-logo.png" alt="Угадай мелодию" width="186" height="83"/>
       </div>
       <h2 className="login__title">Вы настоящий меломан!</h2>
       <p className="login__text">Хотите узнать свой результат? Представтесь!</p>

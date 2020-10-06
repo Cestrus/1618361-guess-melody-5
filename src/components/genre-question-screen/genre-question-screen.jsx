@@ -2,7 +2,7 @@ import React from 'react';
 
 
 const GenreQuestionScreen = () => {
-  
+
   return (
     <section className="game game--genre">
       <header className="game__header">
